@@ -5,3 +5,4 @@ Fit contains my gradient descent algorithm.
 Linear Fitting contains a linear mapping from miles driven to price. 
 Linear Plane contains a linear plane mapping from miles and year to price. 
 Exponential Decay contains an exponential mapping from miles to price. 
+car details v3 contains the data
